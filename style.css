@@ -67,7 +67,7 @@ section{
 .gallery .item{
   flex-basis: 10px;
   flex-grow: 1;
-  transition: .8s ease;
+  transition: 1s ease;
 }
 
 .gallery img{
